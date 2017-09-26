@@ -1,0 +1,24 @@
+{
+  "name": "hello-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UtterlyOriginal/helloNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UtterlyOriginal/helloNode/issues"
+  },
+  "homepage": "https://github.com/UtterlyOriginal/helloNode#readme",
+  "dependencies": {
+    "impress-router": "^1.5.0",
+    "koa": "^2.3.0"
+  }
+}
